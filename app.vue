@@ -1,4 +1,4 @@
 <template>
-  <div class="min-h-screen bg-purple-600">
+  <div class="min-h-screen bg-red-600">
   </div>
 </template>
